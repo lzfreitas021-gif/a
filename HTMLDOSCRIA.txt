@@ -44,29 +44,6 @@
             <input id="email" type="email" placeholder="Digite seu email aqui...">
             <br><br>
 
-            <h3><mark>Descubra se seu cartão foi clonado</mark></h3>
- 
-            <label for="Cartão">Cartão:</label>
-            <input id="Cartão" type="text" placeholder="Digite o número do seu cartão..."   >
-            <br><br>
-             <label for="CVC">CVC:</label>
-            <input id="CVC" type="text" placeholder="Digite o CVC do cartão"   >
-            <br><br>
-            <label for=" agência"> agência:</label>
-            <input id=" agência" type="email" placeholder="Digite sua  agência..."   >
-            <br><br>
-             
-            <label for="Senha"> Senha:</label>
-            <input id=" Senha" type="email" placeholder="Digite sua senha do cartão..."    >
-            <br><br>
-              
-               <label for="CPF"> CPF:</label>
-            <input id=" CPF" type="CPF" placeholder="Digite seu CPF..."    >
-            <br><br>
-              
-
-
-
   
 
             <button type="submit">Enviar</button>
@@ -195,3 +172,4 @@
 
 </body>
 </html>
+
