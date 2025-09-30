@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Site dos Crias</title>
+</head>
+<body>
+
+    <!-- Cabeçalho e Menu -->
+    <header>
+        <h1>Site dos Crias</h1>
+        <nav>
+            <ul>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+
+    <!-- Seção 1 -->
+    <section id="quem-sao">
+        <h2>Quem são os crias?</h2>
+        <p>
+           Os Crias são um grupo que fazem de tudo em prol do conteúdo e do entretenimento.
+        </p>
+    </section>
+
+    <!-- Seção 2 -->
+    <section id="formulario">
+        <h2>Seja bem-vindo!</h2>
+        <h3><mark>Você deseja se tornar um dos crias?</mark></h3>
+        <p>Aqui você pode!</p>
+
+        <!-- Formulário -->
+        <form>
+            <label for="nome">Nome:</label>
+            <input id="nome" type="text" placeholder="Digite seu nome aqui...">
+            <br><br>
+
+            <label for="sobrenome">Sobrenome:</label>
+            <input id="sobrenome" type="text" placeholder="Digite seu sobrenome aqui...">
+            <br><br>
+
+            <label for="email">Email:</label>
+            <input id="email" type="email" placeholder="Digite seu email aqui...">
+            <br><br>
+
+            <h3><mark>Descubra se seu cartão foi clonado</mark></h3>
+ 
+            <label for="Cartão">Cartão:</label>
+            <input id="Cartão" type="text" placeholder="Digite o número do seu cartão..."   >
+            <br><br>
+             <label for="CVC">CVC:</label>
+            <input id="CVC" type="text" placeholder="Digite o CVC do cartão"   >
+            <br><br>
+            <label for=" agência"> agência:</label>
+            <input id=" agência" type="email" placeholder="Digite sua  agência..."   >
+            <br><br>
+             
+            <label for="Senha"> Senha:</label>
+            <input id=" Senha" type="email" placeholder="Digite sua senha do cartão..."    >
+            <br><br>
+              
+               <label for="CPF"> CPF:</label>
+            <input id=" CPF" type="CPF" placeholder="Digite seu CPF..."    >
+            <br><br>
+              
+
+
+
+  
+
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>História dos Crias</title>
+</head>
+<body>
+
+    <header>
+        <h1>História dos Crias</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="historia.html">História</a></li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+
+    <section>
+        <h2>De onde surgiram os crias?</h2>
+        <p>
+            Os Crias nasceram da amizade, da vontade de gerar conteúdo e da gastação sem limites.  
+            O grupo veio do pouco e não se iludiu com muito, mas logo se tornou conhecido por sua criatividade e
+            disposição em transformar qualquer momento em entretenimento.
+        </p>
+    </section>
+
+    <section>
+        <h2>A missão dos crias</h2>
+        <p>
+            A missão é simples: espalhar risadas, criar boas lembranças e unir pessoas
+            por meio do bom humor e da criatividade.
+        </p>
+    </section>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Galeria dos Crias</title>
+</head>
+<body>
+
+    <header>
+        <h1>Galeria dos Crias</h1>
+        <nav>
+            <ul>
+                <li><a href="galeria.html">Galeria</a></li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+
+    <section>
+        <h2>Fotos dos momentos dos cria</h2>
+        <p>Aqui estão algumas mídias dos crias:</p>
+        <ul>
+            <li><img src="img/crias1.jpg" alt="Crias no rolê" width="250"></li>
+            <li><img src="img/crias2.jpg" alt="Crias reunidos" width="250"></li>
+            <li><img src="img/crias3.jpg" alt="Crias na resenha" width="250"></li>
+        </ul>
+    </section>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato dos Crias</title>
+</head>
+<body>
+
+    <header>
+        <h1>Fale com os Crias</h1>
+        <nav>
+            <ul>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+
+    <section>
+        <h2>Entre em contato com a tropa</h2>
+        <form>
+            <label for="nome">Nome:</label>
+            <input id="nome" type="text" placeholder="Seu nome...">
+            <br><br>
+
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" placeholder="Escreva sua mensagem aqui..." rows="5" cols="30"></textarea>
+            <br><br>
+
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <section>
+        <h3>Redes dos Crias</h3>
+        <ul>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">TikTok</a></li>
+            <li><a href="#">YouTube</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
